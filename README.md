@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m learning smart contract creation using Solidity.
+- 🌱 I’m a Full Stack Web Developer, and likes to solve Data Structures and Algorithms related problems.
 - 📗 I'm currently learning Nextjs.
 - 💬 My interests lies in Digital Currencies.
 - 📫 How to reach me: vedant.jain.indore@gmail.com
