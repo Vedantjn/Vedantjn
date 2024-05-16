@@ -12,7 +12,7 @@
 - 💬 My interests lies in Digital Currencies.
 - 📫 How to reach me: vedant.jain.indore@gmail.com
 - 😄 Pronouns: He/his/him
-- ⚡ Interesting fact: I follow vegan lifestyle. 
+- ⚡ Interesting fact: I follow a vegan lifestyle. 
 
 
 [![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=Vedantjn&theme=merko&show_icons=true)](https://github.com/Vedantjn/github-readme-stats)
