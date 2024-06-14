@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m a Full Stack Web Developer and like to solve Data Structures and Algorithms related problems.
+- 🌱 I’m a Full Stack MERN and Solidity Developer and like to solve Data Structures and Algorithms related problems.
 - 💬 My interests lies in Digital Currencies.
 - 📫 How to reach me: vedant.jain.indore@gmail.com
 - 😄 Pronouns: He/his/him
